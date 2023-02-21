@@ -9,3 +9,7 @@ kill - kill player
 build - build block
 checklive - check player's live
 regen - health player
+
+DBs:
+Entytes(dict) {name:entyty}
+Blocks(list)
